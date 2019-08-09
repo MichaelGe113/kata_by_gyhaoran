@@ -1,0 +1,10 @@
+__pycache__/
+build/
+report/
+dist/
+*.egg-info/
+*.pyc
+.coverage
+
+mybuild/
+*.o
